@@ -1,12 +1,4 @@
-# FreeAgent Coding Challenge
 
-Thank you for your interest in the FreeAgent Coding Challenge.  This template is a barebones guide to get you started.  Please add any gems, folders, files, tests, etc. you see fit in order to produce a solution you're proud of.
-
-## Coding Challenge Instructions
-
-Please see the INSTRUCTIONS.md file for more information.
-
-## Your Solution Setup and Run Instructions
 
 Run the **main.rb** file
 
