@@ -1,0 +1,22 @@
+current directory: /Users/mahesh/Desktop/coding-challenge-1.3/vendor/bundle/ruby/2.6.0/gems/io-console-0.5.11/ext/io/console
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20240127-8909-1telbdl.rb extconf.rb
+checking for termios.h... yes
+checking for cfmakeraw() in termios.h... yes
+checking for sys/ioctl.h... yes
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... no
+checking for rb_scheduler_timeout()... no
+creating Makefile
+
+current directory: /Users/mahesh/Desktop/coding-challenge-1.3/vendor/bundle/ruby/2.6.0/gems/io-console-0.5.11/ext/io/console
+make "DESTDIR=" clean
+
+current directory: /Users/mahesh/Desktop/coding-challenge-1.3/vendor/bundle/ruby/2.6.0/gems/io-console-0.5.11/ext/io/console
+make "DESTDIR="
+compiling console.c
+linking shared-object io/console.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: search path '/AppleInternal/Library/BuildRoots/0032d1ee-80fd-11ee-8227-6aecfccc70fe/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.Internal.sdk/usr/local/lib' not found
+
+current directory: /Users/mahesh/Desktop/coding-challenge-1.3/vendor/bundle/ruby/2.6.0/gems/io-console-0.5.11/ext/io/console
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 console.bundle ./.gem.20240127-8909-yirgfm/io
